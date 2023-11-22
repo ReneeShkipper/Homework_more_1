@@ -24,7 +24,9 @@ namespace HW_1
             return speed;
         }
 
-        class program
+        
+    }
+    class program
         {
             static void Main(string[] args)
             {
@@ -40,5 +42,4 @@ namespace HW_1
                 Console.WriteLine(result);
             }
         }
-    }
 }
